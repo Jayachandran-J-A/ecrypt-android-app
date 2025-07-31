@@ -58,23 +58,13 @@ The security model is built on the following flow:
 
 ---
 
-## Screenshots
-
-*(Here you can add screenshots of your app. For example:)*
-
-| Login Screen                        | Contact List & Search                   | Chat Screen                    |
-| :---------------------------------- | :-------------------------------------- | :----------------------------- |
-| *(Insert your login_screen.png here)* | *(Insert your contact_list.png here)* | *(Insert your chat_screen.png here)* |
-
----
-
 ## Setup & Installation
 
 To clone and run this project yourself, you will need to set up your own Firebase project.
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/your-username/ecrypt-android-app.git](https://github.com/your-username/ecrypt-android-app.git)
+    git clone [https://github.com/Jayachandran-J-A/ecrypt-android-app.git](https://github.com/Jayachandran-J-A/ecrypt-android-app.git)
     ```
 
 2.  **Open in Android Studio:** Open the cloned folder in Android Studio.
