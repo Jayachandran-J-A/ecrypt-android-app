@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+
+    <!-- We are using the theme's accent color. You can define this in colors.xml -->
+    <!-- For now, it defaults to a teal color. -->
+    <solid android:color="@color/teal_700" />
+
+    <!-- Rounded corners -->
+    <corners android:radius="12dp" />
+
+</shape>
